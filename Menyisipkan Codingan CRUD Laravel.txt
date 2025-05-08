@@ -1,1 +1,5 @@
 CRUD Laravel
+Create : Membuat
+Read : Membaca/Melihat
+Update : Memperbaharui 
+Delete : Menghapus 

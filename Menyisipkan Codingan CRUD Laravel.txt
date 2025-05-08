@@ -3,3 +3,4 @@ Create : Membuat
 Read : Membaca/Melihat
 Update : Memperbaharui 
 Delete : Menghapus 
+Jadi CRUD adalah metode yang dapat dihubungkan dengan tampilan antarmuka (interface) sebagai fasilitator untuk melakukan perubahan data atau tampilan informasi berbentuk formulir, tabel atau laporan.

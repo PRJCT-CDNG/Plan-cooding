@@ -1,6 +1,6 @@
 CRUD Laravel
-Created : Membuat data baru melalui tambah data
-Read : Membaca/Melihat (mengambil data dari database dan menampilkannya diview laravel)
-Updated : Memperbaharui database
-Deleted : Menghapus database
+Create : Membuat Data Ke dalam database
+Read : Membaca/Melihat(mengambil data dari database dan menampilkan nya) 
+Update : Memperbarui data yang ada di database
+Delete : Menghapus data yang ada di database
 Jadi CRUD adalah metode yang dapat dihubungkan dengan tampilan antarmuka (interface) sebagai fasilitator untuk melakukan perubahan data atau tampilan informasi berbentuk formulir, tabel atau laporan.
